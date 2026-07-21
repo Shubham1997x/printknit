@@ -28,7 +28,7 @@ export function Hero() {
     >
       <div aria-hidden className="absolute inset-0">
         <Image
-          src="/hero-new.jpg"
+          src="/hero-new.webp"
           alt=""
           fill
           priority
